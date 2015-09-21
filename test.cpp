@@ -1,4 +1,4 @@
 #include  <iostream>
-{
-printf("Hello World!!!");
+void main (){
+cout<< "Hello World!!!";
 }
